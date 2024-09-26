@@ -1,0 +1,10 @@
+[package]
+name = "matrix3Dbevy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.2"
+bevy_flycam = "0.14.1"
+fastnoise-lite = "1.1.1"
+image = "0.25.2"
